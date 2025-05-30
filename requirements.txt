@@ -4,3 +4,6 @@ tensorflow
 opencv-python
 scikit-learn
 pandas
+Tkinter
+pillow
+pyttsx3
