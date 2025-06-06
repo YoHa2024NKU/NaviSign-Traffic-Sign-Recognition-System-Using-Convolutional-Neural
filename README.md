@@ -27,13 +27,12 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/real-time-traffic-sign-recognition.git
+   git clone https://github.com/YoHa2024NKU/NaviSign-Traffic-Sign-Recognition-System-Using-Convolutional-Neural
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd real-time-traffic-sign-recognition
-   ```
+   cd NaviSign-Traffic-Sign-Recognition-System-Using-Convolutional-Neural
 
 3. Install the required dependencies:
    ```bash
@@ -48,7 +47,8 @@ To set up the project locally, follow these steps:
    python test.py  # For Running and classifying the images or videos
    ```
 
-2. Use the GUI to upload images or start a video stream for real-time traffic sign recognition.
+2. Use the GUI to upload images or start a video stream for NaviSign-Traffic-Sign-Recognition-System-Using-Convolutional-Neural.
+
 
 ## Dataset
 
@@ -82,6 +82,7 @@ The model is trained using a convolutional neural network (CNN) with the followi
    - Dense layers for classification.
 
 ### Training Results
+N.B Images will be included SOON
 
 #### Loss
 
