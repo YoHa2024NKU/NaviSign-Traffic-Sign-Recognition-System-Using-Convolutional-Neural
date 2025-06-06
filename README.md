@@ -1,4 +1,4 @@
-# Traffic Sign Recognition System Using Convolutional Neural Networks 
+# NaviSign Traffic Sign Recognition System Using Convolutional Neural Networks 
    Real-Time Traffic Sign Recognition
 
 This project focuses on recognizing traffic signs in real-time using a convolutional neural network (CNN) model. The system is designed to classify traffic signs from images or video streams, providing an essential tool for autonomous driving and driver assistance systems.
